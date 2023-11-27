@@ -1,5 +1,5 @@
 ### Description
-Our "EDAV Crime" project focuses on analyzing crime data from the Federal Bureau of Investigation Crime Data Explorer website, specifically finding patterns of arrests by different types of crimes. This project employs different data visualization methods learned from lectures.
+Our project focuses on analyzing crime data from the Federal Bureau of Investigation Crime Data Explorer website, specifically finding patterns of arrests by different types of crimes. This project employs different data visualization methods learned from lectures.
 
 ### Optional
 
