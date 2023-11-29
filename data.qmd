@@ -1,5 +1,19 @@
 # Data
 
-## Description
+## Technical description
+
+
+## Research plan
 
 ## Missing value analysis
+First load our dataset:
+```{r}
+arrest_juvenile = read.csv("preprocessing/arrests_national_juvenile.csv")
+arrest_adults = read.csv("preprocessing/arrests_national_adults.csv")
+hate_crime22 = read.csv("preprocessing/hate_crime_2022.csv")
+```
+
+```{r}
+
+```
+
