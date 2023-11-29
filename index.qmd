@@ -1,5 +1,5 @@
 # Introduction
-“It’s easy to be judgmental about crime when you live in a world wealthy enough to be removed from it. But the hood taught me that everyone has different notions of right and wrong, different definitions of what constitutes crime." --*Trevor Noah, Born a Crime*
+*“It’s easy to be judgmental about crime when you live in a world wealthy enough to be removed from it. But the hood taught me that everyone has different notions of right and wrong, different definitions of what constitutes crime." --Trevor Noah, Born a Crime*
 
 ## Motivation
 My partner and I are new to New York. Moving from San Diego, top desirable place according to US News, to New York, my personal experience and observations spark an interest in exploring crime patterns in the United States. The catalyst for this exploration is a poignant event happened several blocks away form my apartment--a shooting incident in October--even though nobody was shot. Additionally, as members of the Columbia Community, my partner and I receive Clery Alerts by email several times, providing an awareness of potential concerns. 
